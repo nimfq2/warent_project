@@ -1,0 +1,16 @@
+{
+  "base_rate_per_hour": 0.05,
+  "hold_duration_days": 7,
+  "bonuses": [
+    {
+      "threshold_days": 14,
+      "bonus_per_day": 0.05
+    },
+    {
+      "threshold_days": 30,
+      "bonus_per_day": 0.1
+    }
+  ],
+  "penalty_fee": 1.5,
+  "main_news": "Добро пожаловать! Теперь оплата начисляется ежечасно."
+}
